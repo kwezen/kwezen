@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello gitHub 👋
+
+I'm @kwezen (_cuisine_), I'm a @develchef
+
+
+
+
 
 <!--
 **kwezen/kwezen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
